@@ -1,0 +1,8 @@
+{
+  "uuid": "power-rate@luqeckr-tech.github.io",
+  "name": "Power Rate",
+  "description": "Shows the battery charge/discharge power (W), charge cycles (CC) and battery health (BH) in the top bar, read directly from UPower.",
+  "shell-version": ["50"],
+  "url": "https://github.com/luqeckr-tech/gnome-power-rate",
+  "version": 1
+}
